@@ -1,0 +1,14 @@
+5. Complete a lacuna: em Portugol, qual tipo de variável você usaria para guardar cada uma dessas
+informações? Justifique com uma frase curta para cada:
+
+a) o número de alunos de uma turma
+inteiro - não tem como ser número quebrado
+
+b) a altura de uma pessoa
+real - normalmente são números quebrados
+
+c) o nome de um produto
+cadeia - são caracteres
+
+d) se um usuário está logado ou não
+logico - retorna apenas verdadeiro ou falso
