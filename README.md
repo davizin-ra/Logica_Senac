@@ -9,3 +9,6 @@ Exercícios de lógica com fluxogramas
 
 #### [Aula - 02](Aula02)
 Exercícios de lógica com pseudocódigos - Portugol
+
+#### [Aula - 03](Aula03)
+Exercícios de lógica com JavaScript
